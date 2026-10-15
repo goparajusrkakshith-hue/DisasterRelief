@@ -1,0 +1,3 @@
+# Review-4 demo is zero-dependency and runs with Python 3.10+.
+# Target production stack from the project: Flask + MySQL 8 / InnoDB.
+# For Flask deployment, add Flask and migrate the route handlers to Flask blueprints.
